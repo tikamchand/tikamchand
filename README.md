@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tikamchand.
-- 👀 I’m interested in Wed techonology.
-- 🌱 I’m currently learning web development.
+- 👀 I’m interested in Web techonology.
+- 🌱 I’m currently learning full stack development.
 - 💞️ I’m looking to collaborate with new techonology.
 
 <!---
